@@ -1,5 +1,5 @@
 # open-gdsn
-A soon to be launched attempt to create a open and free (for non commercial companies) implementation in java. 
+A soon to be launched attempt to create a open and free¹ implementation in java. 
 
 Initially it will consist of 
 
@@ -45,3 +45,4 @@ We think all the above is a great basis for a usable solution, but we certainly 
 
 The idea is that after an initial release of the DataSource and DataRecipient parts, a real full blown GSDSN compliant DataPool will be implemented too. One of the biggest challenges for this will be the costly [Drummond certification](https://www.drummondgroup.com/b2b-certified-products/b2b-standards/gdsn) that is required by GS1
 
+¹ for non commercial companies/usage 
